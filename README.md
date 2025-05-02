@@ -6,8 +6,8 @@
 
 ### 👩‍💻 About Me
 - 🫡 I'm a Computer Engineering student from Brazil 🇧🇷
-- 📚 I'm currently learning about georeferencing and map optimization
-- 🐕 In my free time, I love hanging out with my dog!
+- 💻 I enjoy learning about technology, innovation and problem-solving; constantly developing skills in programming, computational logic and analytical thinking.
+- 🚀 Always open to learning, growing and contributing with solutions in challenging projects
 
 ### 🛠 Language and tools
 
