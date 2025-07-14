@@ -28,6 +28,6 @@
 
 ### 🔥 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biaamanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
+  <img align="left" alt="Amanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biaamanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img align="right" alt="Amanda's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaamanda&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+  
