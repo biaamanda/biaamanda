@@ -16,8 +16,6 @@
   <img width="12" />
   <img src="https://img.icons8.com/color/600/c-programming.png" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/114/535/png-transparent-mysql-cluster-database-management-system-oracle-sql-logo-blue-text-logo.png" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
